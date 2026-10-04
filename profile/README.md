@@ -4,4 +4,4 @@ Dữ liệu mở về việc làm công nghệ tại Việt Nam, từ đội ng�
 
 ## Repo
 
-- **[vn-tech-programs](https://github.com/techjobs-vn/vn-tech-programs)**: chương trình thực tập, fresher, graduate mảng công nghệ cho sinh viên, có trạng thái mở/đóng và hạn nộp. Ai cũng có thể góp thêm chương trình qua issue.
+- **[vn-student-programs](https://github.com/techjobs-vn/vn-student-programs)**: chương trình thực tập, fresher, graduate, quản trị viên tập sự và học bổng kèm thực tập cho sinh viên mọi ngành, có trạng thái mở/đóng và hạn nộp. Ai cũng có thể góp thêm chương trình qua issue.
