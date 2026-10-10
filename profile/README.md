@@ -1,14 +1,8 @@
 <div align="center">
 
 <a href="https://techjobs.vn/?utm_source=github&utm_medium=org-profile">
-  <img src="https://techjobs.vn/icon-512.png" alt="techjobs.vn" width="96" height="96" />
+  <img src="https://raw.githubusercontent.com/techjobs-vn/.github/main/profile/banner.png" alt="techjobs.vn: việc làm công nghệ tại Việt Nam, 600+ công ty, cập nhật hằng giờ" width="100%" />
 </a>
-
-# techjobs.vn
-
-**Việc làm công nghệ tại Việt Nam, lấy thẳng từ trang tuyển dụng chính thức của công ty.**
-
-600+ công ty · cập nhật hằng giờ · job đóng là biến mất
 
 [**Tìm việc →**](https://techjobs.vn/?utm_source=github&utm_medium=org-profile) &nbsp;·&nbsp;
 [Thực tập / fresher](https://techjobs.vn/programs?utm_source=github&utm_medium=org-profile) &nbsp;·&nbsp;
